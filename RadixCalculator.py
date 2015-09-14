@@ -14,4 +14,4 @@ for x in input:
         res = radix * res + d
 
 if res > -1:
-    print input, "in base", radix, "is", res, "in base 10."print input, "in base", radix, "is", res, "in base 10."
+    print input, "in base", radix, "is", res, "in base 10."
